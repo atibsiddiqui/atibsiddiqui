@@ -67,7 +67,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: mohd atib25@gmail.com
+- 📧 Email: mohdatib25@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/mohdatib)
 - 💻 [GitHub](https://github.com/atibsiddiqui)
 

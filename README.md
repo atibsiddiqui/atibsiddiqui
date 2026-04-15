@@ -16,6 +16,7 @@
 ### 👨‍💻 Programming Languages
 - Java
 - Python
+- Web Development 
 
 ### 📚 Core Concepts
 - Object-Oriented Programming (OOP)
